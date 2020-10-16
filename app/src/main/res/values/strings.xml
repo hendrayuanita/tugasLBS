@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo_text">Rekomendasi Makanan Sehat</string>
+    <string name="Login">Login</string>
+    <string name="enter_your_password">Enter password</string>
+    <string name="forgot_password">Lupa password?</string>
+    <string name="reset_code">Reset Code</string>
+    <string name="enter_your_reset_code">Enter reset code</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="username">Username</string>
+    <string name="send_request">Send Request</string>
+    <string name="registration">Registrasi</string>
+    <string name="enter_your_txt_email">Enter Email</string>
+    <string name="password">Password</string>
+</resources>
